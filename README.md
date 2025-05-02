@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zaY_p4dR)
+1 - Usar os metódos getters e setters ajudam a manter a integridade do sistema. Um exemplo de uso de setter é quando a gente vai fazer um depósito de dinheiro em envelope, não dá para atribuir aquela quantia diretamente a uma conta bancária, antes, uma outra pessoa(intermediador) deve fazer isso pra gente.
